@@ -1,0 +1,16 @@
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/Solid
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/Solid.deps.json
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/Solid.runtimeconfig.json
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/Solid.runtimeconfig.dev.json
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/Solid.dll
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/ref/Solid.dll
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/bin/Debug/net5.0/Solid.pdb
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.csprojAssemblyReference.cache
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.GeneratedMSBuildEditorConfig.editorconfig
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.AssemblyInfoInputs.cache
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.AssemblyInfo.cs
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.csproj.CoreCompileInputs.cache
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.dll
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/ref/Solid.dll
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.pdb
+/home/rt0/ntfs_storage/projects/_git-public/solid_principles/c_sharp/Solid/obj/Debug/net5.0/Solid.genruntimeconfig.cache
