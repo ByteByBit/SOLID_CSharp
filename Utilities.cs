@@ -12,20 +12,6 @@ namespace Solid
             File.WriteAllText(@".\error.log", error);
         }
     }
-    public class Customer
-    {
-        public int BaseDiscount = 10;
-
-        public virtual int Discount(int sales)
-        {
-            return BaseDiscount - sales;
-        }
-
-        public virtual void Add(Database db)
-        {
-            db.Add();
-        }
-    }
 
     public class Database : IDatabase
     {
